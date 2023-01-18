@@ -1,4 +1,5 @@
-# This is html assignment-1
+# html assignment-1
 
-Create a webpage - Image Gallery using HTML. 
-#Steps to run the webpage:
+# Steps to run the webpage:
+Download the project as zip file.
+Go to assign1 > webpage folder > imagegallery.html
